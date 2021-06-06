@@ -1,7 +1,6 @@
 /**
  * This is a Java implementation of the game Kalaha (also known as Kalah, Kalahari, Warri, Owari).
- * The game includes a few different settings for longetivity, like random distributionű
- * of balls (or seeds) in the bowls, 
+ * Done in 2019.
  */
 package kalaha;
 
