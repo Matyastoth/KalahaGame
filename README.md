@@ -7,4 +7,4 @@ This is a 2 player game, where the players are trying to collect the most 'seeds
 
 The raw .java files can be found in src/Kalaha. The program itself can be run in two modes: with UI (base setting) and without UI (can be selected only through modifying the code). Without UI, the game can be run repeatedly to test the AI's abilities; with UI, one can play against another player or against an AI.
 
-There is quick access for resetting the game, and an options pane for how the game should run(speed, AI difficulty, who starts) or set up(equal/random distribution of balls in bowls).
+There is quick access for resetting the game, and an options pane for how the game should run (speed, AI difficulty, who starts) or set up(equal/random distribution of balls in bowls).
